@@ -292,7 +292,7 @@ const coreSkills = [
 const focusAreas = [
   { icon: Shield, title: 'Human Rights & Social Advocacy', desc: 'Promoting institutional accountability and protecting fundamental human rights. Trained and advocated through DMU Human Rights Club.' },
   { icon: FileText, title: 'Civil Litigation & Documentation', desc: 'Expertise in civil procedure, drafting pleadings, reviewing contracts, and preparing litigation folders.' },
-  { icon: Users, title: 'Women\'s Rights & Gender Advocacy', desc: 'Active volunteer at EWLA and Anti-Corruption Women\'s Affairs Executive, promoting gender equality and legal safety.' },
+  { icon: Users, title: 'Women\'s Rights & Gender Advocacy', desc: 'Active volunteer at EWLA and Anti-Corruption Women\'s Affairs Executive, promoting gender equality and legal safety in Debre Markos University.' },
   { icon: Heart, title: 'Pro Bono & Legal Aid Services', desc: 'Dedicated to community service, providing access to justice for underserved populations in Dejen Wereda Court.' }
 ]
 
@@ -527,7 +527,7 @@ const downloadCV = () => {
                 <!-- Main Image Card -->
                 <div class="relative bg-[#0a2a2d] p-2.5 rounded-2xl border border-[#FFDDB1]/10 shadow-2xl overflow-hidden max-w-sm sm:max-w-md animate-float-slow" style="transform: translateZ(10px); transform-style: preserve-3d;">
                   <img 
-                    src="/profile.jpg" 
+                    src="/Hasset.JPG" 
                     alt="Nardos Belay" 
                     class="w-full object-cover object-top rounded-xl shadow-inner filter contrast-[1.02]"
                     style="max-height: 520px;"
