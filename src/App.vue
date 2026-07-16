@@ -329,9 +329,9 @@ const scrollToSection = (id) => {
   mobileMenuOpen.value = false
 }
 
-// Print portfolio / mock CV download
+// Open CV PDF in new tab
 const downloadCV = () => {
-  window.print()
+  window.open('/Nardos_Belay_Resume.pdf', '_blank')
 }
 </script>
 
